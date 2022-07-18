@@ -1,1 +1,1 @@
-# Mnist-classification-usin-CNN
+# Mnist-classification-using-CNN
